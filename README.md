@@ -1,4 +1,4 @@
-# Arrow Functions
+# Simon Game - Getting Started with Jest
 
 To use this repository:
 - Click the "Use this template" button in the upper right
